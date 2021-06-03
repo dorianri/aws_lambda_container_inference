@@ -77,7 +77,7 @@ Metric | Deployment  | Model size
 
 ## 🎒 Pre-requisites
 
-- AWS SAM CLI (test on v1.91)
+- AWS SAM CLI (tested on v1.15.0)
 - Python 3.8
 
 ## 🔰 Description
