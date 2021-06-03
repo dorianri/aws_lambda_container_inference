@@ -72,8 +72,8 @@ The below metrics displays approximate values associated with deploying and usin
 
 Metric | Deployment  | Model size
 ------ | ------ | ------
- **Time** | 2 minutes | 25 minutes | 
- **Volume** | NA | NA | ~2 MB 
+ **Time** | 2 minutes | NA | 
+ **Volume** | NA | NA | ~2 MB | 
 
 ## 🎒 Pre-requisites
 
