@@ -110,7 +110,7 @@ Follow the instructions above.
 List here any resources that helps the audience to understand how the demo works
 
  - [Creating Lambda container images](https://docs.aws.amazon.com/lambda/latest/dg/images-create.html) official documentation
- - [AWS SAM CLI](https://aws.amazon.com/fr/serverless/sam/)
+ - [AWS SAM CLI](https://aws.amazon.com/fr/serverless/sam/) official documentation
  - [SqueezeNete model](https://arxiv.org/abs/1602.07360)
 
  (An AWS Blog post is coming soon...)
