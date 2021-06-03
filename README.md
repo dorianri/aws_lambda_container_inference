@@ -1,11 +1,15 @@
 # Deploying a machine learning model on AWS Lambda using Docker
 > An end-to-end demo for deploying a serverless inference application based on a pre-trained version of SqueezeNet that you can deploy with the SAM CLI.
+
 SqueezeNet is a Deep Learning neural network for computer vision that offers AlexNet level accuracy with 50x fewer parameters and a much smaller model size (approx. 10 MB in this example)
 It includes the following files and folders.
 
-inference - Code for the application's Lambda function and Project Dockerfile.
+Inference - Code for the application's Lambda function and Project Dockerfile.
+
 events - Invocation events that you can use to invoke the function. (Not used in this example)
+
 tests - Unit tests for the application code.
+
 template.yaml - A template that defines the application's AWS resources.
 
 The application uses several AWS resources, including Lambda functions and an API Gateway API. These resources are defined in the template.yaml file in this project. You can update the template to add AWS resources through the same deployment process that updates your application code.
